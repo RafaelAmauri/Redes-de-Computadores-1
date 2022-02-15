@@ -6,4 +6,3 @@ Meus códigos inteiros ou trechos deles podem ser usados por todos, sem restriç
 
 O uso dos códigos neste repositório é por conta e risco do usuário.
 
-Link documento: https://docs.google.com/document/d/1aKGsm-n1IfDjABukyB2UTtNYlPb3eCWchWOQ84-5oqE/edit?usp=sharing
