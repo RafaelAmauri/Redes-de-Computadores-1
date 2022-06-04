@@ -1,6 +1,6 @@
 ## Redes de Computadores 1 - RC 1
 
-Meus arquivos para a matéria de Redes de Computadores 1 (RC1) da PUC Minas com o professor Max do Val Machado.
+Aqui se encontram todos meus arquivos para a matéria Redes de Computadores 1.
 
 Meus códigos inteiros ou trechos deles podem ser usados por todos, sem restrições. Tenha em mente que eu **NÃO** me responsabilizo por possíveis acusações de plágio ou cola, sejam elas por parte da PUC-MG ou qualquer outra instituição/pessoa.
 
